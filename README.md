@@ -52,6 +52,12 @@ The following settings can be adjusted from the main menu:
 
 ***
 
+## 📜 Update Log
+
+For a detailed history of changes, please see the [CHANGELOG.md](CHANGELOG.md) file.
+
+***
+
 ## 🚧 Known Issues & Future Development
 
 This mod is a work in progress. Here are some things to keep in mind:
