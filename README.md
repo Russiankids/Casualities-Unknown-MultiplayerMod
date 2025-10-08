@@ -1,7 +1,5 @@
 # Casualities Unknown💗 - Multiplayer Mod 
 
-IN DEVELOPMENT
-
 This mod brings a cooperative multiplayer experience to the brutal, limb-severing world of **Casualties Unknown**. Team up with friends to explore, survive, and escape the depths, but be warned: the only thing more dangerous than the environment might be each other.
 
 ***
@@ -22,26 +20,7 @@ This mod brings a cooperative multiplayer experience to the brutal, limb-severin
 
 ## 🎮 How to Play
 
-### Installation
-
-1.  **Install BepInEx**: Follow the instructions to install BepInEx into your Casualties Unknown game directory.
-2.  **Add the Mod**: Place the `ScavPrototypeMultiplayer.dll` file into the `BepInEx/plugins` folder.
-3.  **Launch the Game**: Start the game as usual. The mod will load automatically.
-
-### Hosting a Game
-
-1.  Launch the game and navigate to the main menu.
-2.  In the "Multiplayer Settings" section, configure your desired lobby settings.
-3.  Click the **"Host Multiplayer"** button. The game will start, and you'll be the host.
-4.  Share your IP address with your friends so they can join.
-
-### Joining a Game
-
-1.  Launch the game and navigate to the main menu.
-2.  In the "Multiplayer Settings" section, enter the host's IP address in the input field.
-3.  Click the **"Join Multiplayer"** button. You'll connect to the host's lobby.
-
-***
+In Dev
 
 ## ⚙️ Configuration
 
@@ -51,27 +30,6 @@ The following settings can be adjusted from the main menu:
 -   **Spawn in one pod**: `On`/`Off`
 -   **Max Players**: `2` to `8`
 -   **IP Address**: The IP address of the server you wish to join.
-
-***
-
-## 📜 Update Log
-
-For a detailed history of changes, please see the [CHANGELOG.md](CHANGELOG.md) file.
-
-***
-
-## 🚧 Known Issues & Future Development
-
-This mod is a work in progress. Here are some things to keep in mind:
-
--   **Synchronization**: Not all game events are currently synchronized. Expect some strange behavior with items, enemies, and world events.
--   **Bugs**: You may encounter bugs or crashes 🐛. Please report them on the issues page of this repository.
-
-Future plans include:
-
--   Improved synchronization of game events.
--   More robust player management features.
--   Support for more players.
 
 ***
 
