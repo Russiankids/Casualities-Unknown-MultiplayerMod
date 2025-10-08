@@ -1,6 +1,6 @@
 # Casualities Unknown💗 - Multiplayer Mod 
 
-This mod brings a cooperative multiplayer experience to the brutal, limb-severing world of **Casualties Unknown**. Team up with friends to explore, survive, and escape the depths, but be warned: the only thing more dangerous than the environment might be each other.
+This mod brings a cooperative multiplayer experience to the brutal world of **Casualties Unknown**. Team up with friends to explore, survive
 
 ***
  
