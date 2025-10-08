@@ -13,7 +13,7 @@ This mod brings a cooperative multiplayer experience to the brutal, limb-severin
     -   **Friendly Fire**: Decide whether you want to be able to harm your teammates.
     -   **Spawn Location**: Choose to spawn together in a single pod or scattered across the map.
 -   **Synchronized World**: Player positions and basic interactions are synced between all players.
--   **Dynamic Time Control**: The host controls the flow of time ⏰. If the host dies or disconnects, control is automatically transferred to another living player.
+-   **Dynamic Time Control**: The host controls the flow of time. If the host dies or disconnects, control is automatically transferred to another living player.
 -   **Console Permissions**: The host can grant or revoke console access to other players in the lobby.
 
 ***
